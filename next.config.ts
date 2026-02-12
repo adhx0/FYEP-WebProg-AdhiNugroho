@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "sportonbeadhinugroho-production.up.railway.app",
+        hostname: "be-sporton.agunacourse.com",
         pathname: "/uploads/**",
       },
     ],
